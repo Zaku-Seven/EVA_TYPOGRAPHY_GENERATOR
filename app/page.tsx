@@ -77,7 +77,7 @@ export default function Home() {
           onClick={() => setMode('chaos')}
           className={`px-4 py-2 font-bold transition ${mode === 'chaos' ? 'bg-white text-black' : 'bg-neutral-700 hover:bg-neutral-600'}`}
         >
-          TEXT COLLAGE
+          TEXT SPRAY
         </button>
       </div>
 
