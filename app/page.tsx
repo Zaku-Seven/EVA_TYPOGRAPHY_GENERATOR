@@ -371,9 +371,7 @@ export default function Home() {
             <section>
               <h3 className="text-xl font-bold text-white mb-2">THE DEVELOPER</h3>
               <p>
-                Hi, I'm <span className="text-white font-bold">[Jayson Dang]</span>,
-                a freshman studying <span className="text-white">[CS major]</span> at
-                <span className="text-white"> [University of Pittsburgh]</span>.
+                Hi, My names Jayson! I'm a student studying computer science at the university of Pittsburgh.
               </p>
             </section>
 
